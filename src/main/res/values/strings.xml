@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">SmartBudget</string>
+
+    <!-- MainActivity -->
+    <string name="welcome_title">SmartBudget</string>
+    <string name="welcome_subtitle">Expense Tracker and Budget Planner</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Create Account</string>
+
+    <!-- LoginActivity -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_success">Login Successful</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+
+    <!-- SignupActivity -->
+    <string name="full_name_hint">Full Name</string>
+    <string name="btn_register">Register</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="registration_failed">Registration Failed</string>
+
+    <!-- DashboardActivity -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="btn_add_expense">Add Expense</string>
+
+    <!-- AddExpenseActivity -->
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="amount_hint">Enter Amount</string>
+    <string name="category_hint">Category (Food, Rent, Transport, Bills, etc.)</string>
+    <string name="date_hint">Date (YYYY-MM-DD)</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="expense_saved">Expense Saved Successfully</string>
+    <string name="expense_failed">Failed to Save Expense</string>
+
+</resources>
